@@ -33,7 +33,6 @@ INSERT INTO users (name, age) VALUES ("Wendy Bot ", 39);
 INSERT INTO users (name, age) VALUES ("Mafesto Bot ", 30);
 INSERT INTO users (name, age) VALUES ("Garrison Bot ", 41);
 
-
 INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 4, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (31, 5, 3);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (35, 5, 4);
@@ -57,6 +56,11 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES (41, 10, 10);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (30, 11, 1);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (25, 12, 1);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 13, 10);
-
-
+INSERT INTO pledges (amount, user_id, project_id) VALUES (35, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (41, 1, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (25, 1, 9);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (49, 2, 8);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (22, 2, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 3, 8);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (89, 3, 1);
 
